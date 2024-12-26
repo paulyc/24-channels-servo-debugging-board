@@ -1,0 +1,5 @@
+MSPM0G3507	24路舵机驱动板
+        PA10		         RXD3
+        PA11		         TXD3
+        5V		         5V
+        GND		         GND
